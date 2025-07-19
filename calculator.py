@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+ HEAD
+HEAD
 print("This is Pam's calculator")
 # 🎉 Welcome to the Fun Calculator! 🎉
 # We're going to add, subtract, multiply, and divide two numbers like a boss! 😎
@@ -33,7 +34,9 @@ print(f"Difference: {difference_result}")  # ➖
 print(f"Product: {product_result}")  # ✖️
 print(f"Quotient: {quotient_result}")  # ➗
 
-=======
+
+print("This is Pam's calculator")
+ 75e4868 (Save changes before pulling)
 # 🎉 Welcome to the Fun Calculator! 🎉
 # We're going to add, subtract, multiply, and divide two numbers like a boss! 😎
 
@@ -67,5 +70,5 @@ print(f"Difference: {difference_result}")  # ➖
 print(f"Product: {product_result}")  # ✖️
 print(f"Quotient: {quotient_result}")  # ➗
 
->>>>>>> 9407e09 (Added Calculator file)
+ 9407e09 (Added Calculator file)
 # 🏁 And that's it! You've just made a mini-calculator! 😎💻
